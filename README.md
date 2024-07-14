@@ -1,5 +1,14 @@
-### Hi there 👋
+# *Okitegami Kyoko (Nickname)*
+# About me / Sobre mi
+## English
+# I'm a ITC engineer
+I'm 24 years old
 
+## Spanish
+# Hola, soy un ingeniero en TIC's.
+Tengo 24 años 
+
+# 📫 How to reach me: ...
 <!--
 **OkitegamiKyoko/OkitegamiKyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,11 +1,11 @@
 # *Okitegami Kyoko (Nickname)*
-# About me / Sobre mi
-## English
-# I'm a ITC engineer
+## About me / Sobre mi
+### English
+Hi, i'm a ITC engineer.
 I'm 24 years old
 
-## Spanish
-# Hola, soy un ingeniero en TIC's.
+### Spanish
+Hola, soy un ingeniero en TIC's.
 Tengo 24 años 
 
 # 📫 How to reach me: ...

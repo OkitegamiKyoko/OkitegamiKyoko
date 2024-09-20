@@ -9,6 +9,7 @@ Hola, soy un ingeniero en TIC's.
 Tengo 24 años 
 
 # 📫 How to reach me: ...
+[![Linkdin](https://img.shields.io/badge/Conéctate%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adolfo-angel-martínez-mercado-48581ab2)
 <!--
 **OkitegamiKyoko/OkitegamiKyoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
